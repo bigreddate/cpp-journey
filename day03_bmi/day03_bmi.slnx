@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="day03_bmi.vcxproj" Id="ec5d9f0b-ae78-4b13-8a41-e205749f4227" />
+</Solution>
